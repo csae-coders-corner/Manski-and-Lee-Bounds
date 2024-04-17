@@ -51,3 +51,20 @@ Table 1- Manski Bounds and Lee Bounds: Impact of cash transfers on migration
 Standard errors in parentheses
 *** p<0.01, ** p<0.05, * p<0.1
 
+## References
+
+Behaghel, Luc, Bruno Crepon, Marc Gurgand, and Thomas Le Barbanchon. 2012. “Please Call Again: Correcting Non-Response Bias in Treatment Effect Models.” SSRN Journal. https://doi.org/10.2139/ssrn.2157893.
+
+Blattman, Christopher; Fiala, Nathan; Martinez, Sebastian, 2014, "Northern Uganda Social Action Fund - Youth Opportunities Program", https://doi.org/10.7910/DVN/27898, Harvard Dataverse, V1. 
+
+Blattman, Christopher; Fiala, Nathan; Martinez, Sebastian, 2019, "The long term impacts of grants on poverty: 9-year evidence from Uganda’s Youth Opportunities Program", https://doi.org/10.7910/DVN/V0N0HA  Harvard Dataverse, V1. 
+
+Duru, M., & Kopper, S. (n.d.). Data Analysis. The Abdul Latif Jameel Poverty Action Lab (J-PAL). Retrieved January 27, 2022, from https://www.povertyactionlab.org/resource/data-analysis. 
+
+Lee, David. 2009. “Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects.” The Review of Economic Studies 76 (3): 1071–1102. 10.3386/w11721  
+
+McCarthy, Ian, Daniel L. Millimet, and Manan Roy. 2015. “Bounding Treatment Effects: A Command for the Partial Identification of the Average Treatment Effect with Endogenous and Misreported Treatment Assignment.” The Stata Journal 15 (2): 411–36. https://doi.org/10.1177/1536867x1501500205.
+
+Tauchmann, Harald. 2014. “Lee (2009) Treatment-Effect Bounds for Nonrandom Sample Selection.” The Stata Journal 14 (4): 884–94. 10.1177/1536867x1401400411.
+
+**Razan Amine, Research Assistant in Economics, 16 February 2022**
