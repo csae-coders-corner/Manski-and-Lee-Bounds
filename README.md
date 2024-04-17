@@ -15,7 +15,8 @@ Figure 1.b shows the code for our specific example, where the outcome is migrati
 
 <img width="263" alt="manski 2" src="https://github.com/csae-coders-corner/Manski-and-Lee-Bounds/assets/148211163/e11e98cf-72bb-48f8-8970-41adee2fee4c">
 
-Note that an underlying assumption of the Manski bound is that the outcome variable should be bounded. The second approach discussed below does not need this to be the case. 
+>[!Note]
+> An underlying assumption of the Manski bound is that the outcome variable should be bounded. The second approach discussed below does not need this to be the case. 
 
 The second boundary approach Lee Bounds is a type of trimming procedure, where the group (either control or treatment) that potentially suffers the most from sample attrition is trimmed (Tauchmann, 2014). The lower and upper bound are computed by making assumptions about the missing data of the outcomes of the attrition group. Lee (2009) bounds rely on a few assumptions only, namely random assignment of treatment and monotonicity, where the latter means that the treatment status affects attrition in just one direction. In other words, being assigned to treatment makes attrition either more or less likely for any observation. There is a simple built-in command leebounds in Stata that takes care of the process. But what is leebounds exactly doing?
 
