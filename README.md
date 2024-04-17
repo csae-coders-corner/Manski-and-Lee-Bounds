@@ -34,6 +34,7 @@ Figure 1.a displays the simple code and Figure 1.b shows the code for our specif
 
 <img width="326" alt="manski 3" src="https://github.com/csae-coders-corner/Manski-and-Lee-Bounds/assets/148211163/c6203158-36d5-4d87-9234-51081045dd38">
 
+
 <img width="326" alt="manski 4" src="https://github.com/csae-coders-corner/Manski-and-Lee-Bounds/assets/148211163/0ae483b2-90ae-431f-978d-352237528198">
 
 ![manski 5](https://github.com/csae-coders-corner/Manski-and-Lee-Bounds/assets/148211163/b5681745-4a7f-4585-aaf4-99783d74747d)
