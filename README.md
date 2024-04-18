@@ -1,3 +1,5 @@
+![CC Graphics 2024-18](https://github.com/csae-coders-corner/Manski-and-Lee-Bounds/assets/148211163/1def8888-a74f-4aeb-881d-dbcb74aaf0a6)
+
 # Manski-and-Lee-Bounds
 Methods for accounting for attrition vary according to whether we assume that attrition is unsystematic between the treatment and control groups or not. There are several standard techniques to deal with attrition and sample selection; I focus in this post on how to code boundary approaches proposed by Manski (1990) and Lee (2009)  .
 
